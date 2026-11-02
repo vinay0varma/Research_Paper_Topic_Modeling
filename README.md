@@ -74,7 +74,7 @@ Output: the most similar existing papers, their topics, similarity scores, and a
 
 ## Author
 **Your Name**, B.Tech (AI), Your College Name
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/vinay0varma
 
 ## License
 This project is for educational purposes.
